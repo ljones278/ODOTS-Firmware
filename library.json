@@ -1,0 +1,14 @@
+{
+  "name": "ODOTS",
+  "keywords": "rfid, spi",
+  "description": "Manage Functions for Open Design Orienteering Timing System",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/ljones278/ODOTS.git"
+  },
+  "version": "0.1",
+  "exclude": "doc",
+  "frameworks": "arduino",
+  "platforms": ["avr"]
+}
