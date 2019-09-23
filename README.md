@@ -25,16 +25,16 @@ Dedicated documentation of all firmware including its interfaces with the rest o
 
 ## Acknowledgements
 
-DS1337 Library cloned from [here] (https://github.com/richard-clark/ds1337), from user Richard Clark. Largely unchanged apart from minor adjustments to make data interfaces easier to work with.
+DS1337 Library cloned from [here](https://github.com/richard-clark/ds1337), from user Richard Clark. Largely unchanged apart from minor adjustments to make data interfaces easier to work with.
 
-MRFC522 Library cloned from [here] (https://github.com/miguelbalboa/rfid), from user miguelbalboa and others minor changes to how errors are reported and serial dump framing. Source code covered by the Unlicence. 
+MRFC522 Library cloned from [here](https://github.com/miguelbalboa/rfid), from user miguelbalboa and others minor changes to how errors are reported and serial dump framing. Source code covered by the Unlicence. 
 
 
-LowPower Library Cloned form [here] (https://github.com/rocketscream/Low-Power), written by Lim Phang Moh and covered by the [Creative Commons Attribution-ShareAlike 3.0
-* Unported License] (https://creativecommons.org/licenses/by-sa/3.0/) . As a share alike license unfortunately this licenses ODOTSGeneric.ino under the same license. As the creator of the non-power saving functionality in these files I am will reissue these files without the LowPower code under a more permissive license on request. 
+LowPower Library Cloned form [here](https://github.com/rocketscream/Low-Power), written by Lim Phang Moh and covered by the [Creative Commons Attribution-ShareAlike 3.0
+* Unported License](https://creativecommons.org/licenses/by-sa/3.0/) . As a share alike license unfortunately this licenses ODOTSGeneric.ino under the same license. As the creator of the non-power saving functionality in these files I am will reissue these files without the LowPower code under a more permissive license on request. 
 
 ## Licensing
 
 All files other than ODOTS.cpp and ODOTSGeneric.ino are covered by the Apache 2.0 License.
 
-Development funding provided by the Orienteering Foundation.
+Development funding provided by the [Orienteering Foundation](https://www.orienteeringfoundation.org.uk/).
