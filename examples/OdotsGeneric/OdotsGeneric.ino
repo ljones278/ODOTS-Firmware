@@ -34,8 +34,7 @@ void setup()
 void loop()
 {
   //Serial.println("Hi");cc
-	//Poll EVERYWHERE lets get ALL EMBEDDED ENGINEERS EVERYWHERE TURNING IN THEIR GRAVES
-	// WOOHOO PARTY PARTY PARTY DESECRATION PARTY
+	
 	
 	//Check Serial Input buffer
 	if (CheckSerialForContents())
